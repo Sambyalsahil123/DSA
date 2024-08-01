@@ -28,5 +28,5 @@ let bubblesort = (myArray) => {
   return myArray;
 };
 
-var myArray = [34, 15, 29, 8];
+var myArray = [19,132,110,231,15, 29,13];
 console.log(bubblesort(myArray));
